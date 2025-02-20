@@ -11,7 +11,7 @@
 
 📫 How to reach me:  
 - [LinkedIn](https://www.linkedin.com/in/mahnoor-umar-a61027226/)
-- [Personal Website](https://purplestore.com.pk)  
+- [My Brand Website](https://purplestore.com.pk)  
 - Email: mahnouor@gmail.com  
 
 😄 Pronouns:  
