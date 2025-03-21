@@ -1,5 +1,5 @@
 
-👋 Hi, I’m @mahnouor1  
+👋 Hi, I’m Mahnoor Umar
 
 👀 I’m interested in:  
 - Artificial Intelligence and Machine Learning
@@ -12,10 +12,7 @@
 📫 How to reach me:  
 - [LinkedIn](https://www.linkedin.com/in/mahnoor-umar-a61027226/)
 - [My Brand Website](https://purplestore.com.pk)  
-- Email: mahnouor@gmail.com  
-
-😄 Pronouns:  
-- She/Her  
-
+- Email: mahnouor@gmail.com
+  
  ⚡ Fun fact:  
 - I love transforming data into actionable insights and have a passion for building sleek, responsive websites! 
