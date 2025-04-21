@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **mahnouor@gmail.com**
 
-- ⚡ Fun fact **I run a hijab brand, lead a tech startup, and somehow still find time to train custom AI models — I call it multitasking with ✨flair✨**
     </td>
 
     <!-- RIGHT COLUMN: your GIF -->
