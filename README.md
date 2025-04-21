@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Mahnoor Umar</h2>
-<h3 align="center">AI/ML Enthusiast Exploring GenAI & Conversational Tech</h3>
+<h3 align="center">AI/ML Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnouor1&label=Profile%20views&color=0e75b6&style=flat" alt="mahnouor1" /> </p>
 
