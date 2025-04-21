@@ -1,18 +1,30 @@
+<h2 align="center">Hi 👋, I'm Mahnoor Umar</h2>
+<h3 align="center">AI/ML Enthusiast Exploring GenAI & Conversational Tech</h3>
 
-👋 Hi, I’m Mahnoor Umar
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnouor1&label=Profile%20views&color=0e75b6&style=flat" alt="mahnouor1" /> </p>
 
-👀 I’m interested in:  
-- Artificial Intelligence and Machine Learning
-- Chatbot Development and Automation  
+- 🔭 I’m currently working on **AI/ML models focused on Computer Vision with CNNs**
 
-🌱 I’m currently learning:  
-- Computer Vision for CNN projects  
-- Enhancing skills in Data Science
+- 🌱 I’m currently learning **Advanced ML techniques and Vector Databases**
 
-📫 How to reach me:  
-- [LinkedIn](https://www.linkedin.com/in/mahnoor-umar-a61027226/)
-- [My Brand Website](https://purplestore.com.pk)  
-- Email: mahnouor@gmail.com
-  
- ⚡ Fun fact:  
-- I love transforming data into actionable insights and have a passion for building sleek, responsive websites! 
+- 👯 I’m looking to collaborate on **AI/ML Projects – especially computer vision, GenAI, or anything with a social impact (e.g., accessibility tools, education, or mental health)**
+
+- 📫 How to reach me **mahnouor@gmail.com**
+
+- ⚡ Fun fact **I run a hijab brand, lead a tech startup, and somehow still find time to train custom AI models — I call it multitasking with ✨flair✨**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahnoor-umar-a61027226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahnoor-umar-a61027226/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/mahnouor123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahnouor123" height="30" width="40" /></a>
+<a href="https://discord.gg/1349833875999948830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1349833875999948830" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahnouor1&show_icons=true&locale=en&layout=compact" alt="mahnouor1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahnouor1&show_icons=true&locale=en" alt="mahnouor1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnouor1&" alt="mahnouor1" /></p>
