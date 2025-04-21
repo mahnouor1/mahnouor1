@@ -11,7 +11,7 @@
 - 🌱 Learning **Advanced ML techniques and Vector Databases**
 - 👯 Looking to collaborate on **AI/ML Projects – especially computer vision, GenAI, or anything with a social impact (e.g., accessibility tools, education, or mental health)**
 
-- 📫 How to reach me **mahnouor@gmail.com**
+- 📫 How to reach me **mahnouor@gmail.com** | <a href="https://www.linkedin.com/in/mahnoor-umar-a61027226/" target="_blank">LinkedIn</a>
     </td>
 
     <!-- RIGHT COLUMN: your GIF -->
