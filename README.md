@@ -12,12 +12,11 @@
 - 👯 Looking to collaborate on **AI/ML Projects – especially computer vision, GenAI, or anything with a social impact (e.g., accessibility tools, education, or mental health)**
 
 - 📫 How to reach me **mahnouor@gmail.com**
-
     </td>
 
     <!-- RIGHT COLUMN: your GIF -->
     <td valign="top" width="40%" align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpmZjZ1ajliZWJqc3I5ZXp4aTY4bzcwNzE1cmp5MzV1bWtlbWpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/im7GeZ4NgPOaIt0u6q/giphy.gif" width="320"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpmZjZ1ajliZWJqc3I5ZXp4aTY4bzcwNzE1cmp5MzV1bWtlbWpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/im7GeZ4NgPOaIt0u6q/giphy.gif" width="250"/>
     </td>
   </tr>
 </table>
