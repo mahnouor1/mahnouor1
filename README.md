@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnouor1&label=Profile%20views&color=0e75b6&style=flat" alt="mahnouor1" /> </p>
 
-- 🔭 I’m currently working on **AI/ML models focused on Computer Vision with CNNs**
-
-- 🌱 I’m currently learning **Advanced ML techniques and Vector Databases**
-
-- 👯 I’m looking to collaborate on **AI/ML Projects – especially computer vision, GenAI, or anything with a social impact (e.g., accessibility tools, education, or mental health)**
+- 🔭 Currently working on **AI/ML models focused on Computer Vision with CNNs**
+- 🌱 Learning **Advanced ML techniques and Vector Databases**
+- 👯 Looking to collaborate on **AI/ML Projects – especially computer vision, GenAI, or anything with a social impact (e.g., accessibility tools, education, or mental health)**
 
 - 📫 How to reach me **mahnouor@gmail.com**
 
