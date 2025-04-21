@@ -1,5 +1,10 @@
 <h3 align="center">AI/ML Enthusiast </h3>
 
+<table>
+  <tr>
+    <!-- LEFT COLUMN: your text intro -->
+    <td valign="top" width="60%">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnouor1&label=Profile%20views&color=0e75b6&style=flat" alt="mahnouor1" /> </p>
 
 - 🔭 Currently working on **AI/ML models focused on Computer Vision with CNNs**
@@ -9,6 +14,14 @@
 - 📫 How to reach me **mahnouor@gmail.com**
 
 - ⚡ Fun fact **I run a hijab brand, lead a tech startup, and somehow still find time to train custom AI models — I call it multitasking with ✨flair✨**
+    </td>
+
+    <!-- RIGHT COLUMN: your GIF -->
+    <td valign="top" width="40%" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNmaHJyNzNraHF6NnN5enQ4cW5xZnI3dWg3dzgybXRmanNzZm80MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
