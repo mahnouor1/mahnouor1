@@ -16,7 +16,7 @@
 
     <!-- RIGHT COLUMN: your GIF -->
     <td valign="top" width="40%" align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtrdjN6dmxsYjNxM29ndm83b2gza2Zmd2ZneTkzdm9rYnVtc3NwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2bYewTk7K2No1NvcuK/giphy.gif" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZkODRzc2N0NWR5ZWdkcmMxamJ0bm9xdmFrN3hyZDU2bWtoendnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OlGjKs2Xg1yXm/giphy.gif" width="500"/>
     </td>
   </tr>
 </table>
