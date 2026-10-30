@@ -24,7 +24,6 @@
 | **AI Outreach Engine** | n8n + Gemini pipeline that sends personalised outreach emails | Skimmy AI |
 | **WhatsApp AI Sales Agent** | Arabic/English sales agent with CRM dashboard, sold in tiers | Cloud Ordinate |
 | **Shopify WhatsApp Agent** | WhatsApp Business API agent connected to a client's Shopify store | Cloud Ordinate |
-| **Odoo via MCP** | Natural-language control of Odoo CRM | Cloud Ordinate |
 | **Telegram Voice Agent** | Voice/text agent with human handoff | Cloud Ordinate |
 | **WhatsApp Shopping Assistant** | AI shopping assistant on n8n, Meta Cloud API, OpenAI and Supabase | Purple Store |
 
