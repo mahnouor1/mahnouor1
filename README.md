@@ -1,60 +1,27 @@
-<h3 align="center">AI Agents & Voice AI Engineer @ Skimmy AI</h3>
+<a href="https://mahnoor.cloudordinate.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I'm Mahnoor. I build AI systems that scale: voice agents, lead engines and the CRMs behind them."></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="Contributions in the last 6 months"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-ship-dark.svg"><img src="assets/label-ship-light.svg" width="100%" alt="What I ship"></picture>
 
 <p align="center">
-  <a href="https://mahnoor.cloudordinate.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=I+build+AI+voice+agents;WhatsApp+AI+sales+agents;Lead+engines+%26+the+CRMs+behind+them;n8n+%2B+LLM+automations+for+real+businesses" alt="Typing SVG"></a>
+<a href="https://skimmy.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-voice-dark.svg"><img src="assets/app-voice-light.svg" width="49%" alt="Skimmy Voice Agent: AI voice agent that answers calls, handles customer queries and books appointments."></picture></a>
+<a href="https://mahnoor.cloudordinate.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-outbound-dark.svg"><img src="assets/app-outbound-light.svg" width="49%" alt="Outbound CRM: Lead gen, outbound email, sequences and follow-ups. Built solo in one month."></picture></a>
+<a href="https://hermesagent.cloudordinate.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-hermes-dark.svg"><img src="assets/app-hermes-light.svg" width="49%" alt="Hermes: Ask "find healthcare leads in Sydney". It scrapes Maps, crawls sites, verifies emails."></picture></a>
+<a href="https://mahnoor.cloudordinate.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-jev-dark.svg"><img src="assets/app-jev-light.svg" width="49%" alt="JEV: Scores every lead by ICP, verdict and fit score, with the tokens and cost of each run."></picture></a>
 </p>
+
+<p align="center"><sub>Company and client repos are private. Demos on request · more ships: <a href="https://cloudordinate.com">WhatsApp AI Sales Agent</a> · <a href="https://github.com/mahnouor1/CALL-AUTOMATION">CALL-AUTOMATION</a> · <a href="https://github.com/mahnouor1/aqi-predictor">aqi-predictor</a> · <a href="https://github.com/mahnouor1/Football-Detection-Model-YOLOv11">Football-Detection-YOLOv11</a></sub></p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-reels-dark.svg"><img src="assets/label-reels-light.svg" width="100%" alt="Latest reels"></picture>
 
 <p align="center">
-  <a href="https://mahnoor.cloudordinate.com"><img src="https://img.shields.io/badge/Portfolio-6C3BAA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mahnoor-umar-a61027226/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.kaggle.com/mahnouor123"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="mailto:mahnouor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=mahnouor1&label=Profile%20views&color=6C3BAA&style=for-the-badge" alt="Profile views">
+<a href="https://www.instagram.com/mahnoor.ships/reel/DgKsKF2o4rE/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reel-DgKsKF2o4rE-dark.svg"><img src="assets/reel-DgKsKF2o4rE-light.svg" width="24%" alt="This chapter ends here: goodbye, PurpleStore"></picture></a>
+<a href="https://www.instagram.com/mahnoor.ships/reel/Dfj0SpQouI_/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reel-Dfj0SpQouI_-dark.svg"><img src="assets/reel-Dfj0SpQouI_-light.svg" width="24%" alt="Leads are waiting before my coffee: Hermes + cron"></picture></a>
+<a href="https://www.instagram.com/mahnoor.ships/reel/De_6GI5i0Vu/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reel-De_6GI5i0Vu-dark.svg"><img src="assets/reel-De_6GI5i0Vu-light.svg" width="24%" alt="I plugged an AI agent into my lead engine"></picture></a>
+<a href="https://www.instagram.com/mahnoor.ships/reel/DeHDO18CDHa/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reel-DeHDO18CDHa-dark.svg"><img src="assets/reel-DeHDO18CDHa-light.svg" width="24%" alt="My own outreach CRM, with JEV built in"></picture></a>
 </p>
 
----
-
-## Production work
-
-| Project | What it does | Built at |
-|---|---|---|
-| **Skimmy Voice Agent** | AI voice agent that answers calls, handles customer queries and books appointments | Skimmy AI |
-| **[Hermes](https://hermesagent.cloudordinate.com)** | Lead-gen agent: scrapes Google Maps, crawls business websites, verifies emails | Skimmy AI |
-| **Outbound CRM + JEV** | CRM that imports, dedupes and verifies leads; JEV scores each lead against the ICP with fit score, verdict and cost tracking | Skimmy AI |
-| **AI Outreach Engine** | n8n + Gemini pipeline that sends personalised outreach emails | Skimmy AI |
-| **WhatsApp AI Sales Agent** | Arabic/English sales agent with CRM dashboard, sold in tiers | Cloud Ordinate |
-| **Shopify WhatsApp Agent** | WhatsApp Business API agent connected to a client's Shopify store | Cloud Ordinate |
-| **Telegram Voice Agent** | Voice/text agent with human handoff | Cloud Ordinate |
-| **WhatsApp Shopping Assistant** | AI shopping assistant on n8n, Meta Cloud API, OpenAI and Supabase | Purple Store |
-
-<sub>Company and client repos are private. Demos on request.</sub>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnouor1&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak">
-</p>
-
----
-
-## Tech I work with
-
-- **Voice AI:** Retell · Pipecat · Deepgram · Twilio
-- **LLMs & agents:** OpenAI · Claude · Gemini · MCP
-- **Automation & backend:** n8n · Python · Supabase / Postgres · Meta Cloud API
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,postgres,supabase,pytorch,tensorflow,sklearn,gcp,vercel,git&perline=12" alt="Tech stack">
-</p>
-
----
-
-## Experience
-
-- **AI Agent Developer** — Skimmy AI · Oct 2026 – present
-- **Lead GTM Engineer** — Skimmy AI · Sep 2026 – Oct 2026
-- **AI Automation Engineer** — Cloud Ordinate · Aug 2025 – Sep 2026
-- **Data Science Intern** — 10Pearls · Jun 2025 – Aug 2025
-- **Founder** — Purple Store · Jan 2024 – Mar 2026
+<p align="center"><sub>Karachi, Pakistan · building <a href="https://skimmy.ai">Skimmy AI</a> · <a href="https://mahnoor.cloudordinate.com/">mahnoor.cloudordinate.com</a> · design inspired by <a href="https://github.com/ZazaGdev">ZazaGdev</a></sub></p>

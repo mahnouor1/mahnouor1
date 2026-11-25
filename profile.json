@@ -1,0 +1,251 @@
+{
+  "_about": "Hand-kept facts for the profile README. Edit this file, then run: python3 scripts/build.py",
+  "user": "mahnouor1",
+  "name": "Mahnoor",
+  "tagline": "I build AI systems that scale: voice agents, lead engines and the CRMs behind them.",
+  "role": "AI Agent Developer at Skimmy AI · Karachi, Pakistan",
+  "corner": "@ Skimmy AI",
+  "chips": [
+    [
+      "AI voice agents",
+      "bl"
+    ],
+    [
+      "lead-gen agents",
+      "gr"
+    ],
+    [
+      "outbound CRMs",
+      "am"
+    ],
+    [
+      "n8n automations",
+      "pu"
+    ]
+  ],
+  "links": {
+    "instagram": {
+      "label": "Instagram",
+      "handle": "@mahnoor.ships",
+      "url": "https://www.instagram.com/mahnoor.ships/"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "handle": "",
+      "url": "https://www.linkedin.com/in/mahnoor-umar-a61027226/"
+    },
+    "site": {
+      "label": "Portfolio",
+      "handle": "",
+      "url": "https://mahnoor.cloudordinate.com/"
+    },
+    "email": {
+      "label": "Email",
+      "handle": "",
+      "url": "mailto:mahnouor@gmail.com"
+    },
+    "call": {
+      "label": "Book a call",
+      "handle": "",
+      "url": "https://cal.com/mahnoor-umar-plzhcx"
+    }
+  },
+  "numbers_source": "mahnoor.cloudordinate.com, read 26 Nov 2026",
+  "numbers_title": "By the numbers",
+  "numbers_note": "Skimmy CRM · live data, 26 Nov 2026",
+  "numbers": [
+    {
+      "value": "503",
+      "label": "leads in the CRM, +222 in 7 days",
+      "tint": "bl",
+      "icon": "db"
+    },
+    {
+      "value": "200",
+      "label": "verified mailboxes, 39.8% of leads",
+      "tint": "tl",
+      "icon": "mail"
+    },
+    {
+      "value": "134",
+      "label": "qualified by JEV, 26.6% of leads",
+      "tint": "gr",
+      "icon": "check"
+    },
+    {
+      "value": "271",
+      "label": "leads found by Hermes in 14 days",
+      "tint": "pu",
+      "icon": "search"
+    }
+  ],
+  "pills": [
+    {
+      "value": "1 month",
+      "label": "to build it, solo",
+      "tint": "am",
+      "icon": "clock"
+    },
+    {
+      "value": "3",
+      "label": "sending domains warming up",
+      "tint": "pk",
+      "icon": "globe"
+    },
+    {
+      "value": "7/7",
+      "label": "launch checks passed",
+      "tint": "gr",
+      "icon": "bolt"
+    },
+    {
+      "value": "5.0",
+      "label": "Upwork rating",
+      "tint": "pu",
+      "icon": "star"
+    }
+  ],
+  "apps": [
+    {
+      "id": "voice",
+      "name": "Skimmy Voice Agent",
+      "icon": "mic",
+      "status": "building",
+      "tint": "pu",
+      "line": "AI voice agent that answers calls, handles customer queries and books appointments.",
+      "chips": [
+        [
+          "Pipecat",
+          "pu"
+        ],
+        [
+          "Deepgram",
+          "bl"
+        ],
+        [
+          "Gemini",
+          "am"
+        ]
+      ],
+      "fact": "Skimmy AI · clinics, salons, trades",
+      "url": "https://skimmy.ai"
+    },
+    {
+      "id": "outbound",
+      "name": "Outbound CRM",
+      "icon": "mail",
+      "status": "live",
+      "tint": "bl",
+      "line": "Lead gen, outbound email, sequences and follow-ups. Built solo in one month.",
+      "chips": [
+        [
+          "n8n",
+          "pk"
+        ],
+        [
+          "Gemini",
+          "am"
+        ],
+        [
+          "custom CRM",
+          "bl"
+        ]
+      ],
+      "fact": "503 leads · 134 qualified · 20/day cap",
+      "url": "https://mahnoor.cloudordinate.com/"
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes",
+      "icon": "search",
+      "status": "live",
+      "tint": "gr",
+      "line": "Ask \"find healthcare leads in Sydney\". It scrapes Maps, crawls sites, verifies emails.",
+      "chips": [
+        [
+          "Hermes Agent",
+          "gr"
+        ],
+        [
+          "MCP",
+          "pu"
+        ],
+        [
+          "VPS",
+          "tl"
+        ]
+      ],
+      "fact": "271 leads found in the last 14 days",
+      "url": "https://hermesagent.cloudordinate.com"
+    },
+    {
+      "id": "jev",
+      "name": "JEV",
+      "icon": "gauge",
+      "status": "live",
+      "tint": "am",
+      "line": "Scores every lead by ICP, verdict and fit score, with the tokens and cost of each run.",
+      "chips": [
+        [
+          "Gemini",
+          "am"
+        ],
+        [
+          "job queue",
+          "tl"
+        ],
+        [
+          "cost tracking",
+          "gr"
+        ]
+      ],
+      "fact": "10 leads in 7.9 s · 8,033 tokens",
+      "url": "https://mahnoor.cloudordinate.com/"
+    }
+  ],
+  "more": [
+    [
+      "WhatsApp AI Sales Agent",
+      "https://cloudordinate.com"
+    ],
+    [
+      "CALL-AUTOMATION",
+      "https://github.com/mahnouor1/CALL-AUTOMATION"
+    ],
+    [
+      "aqi-predictor",
+      "https://github.com/mahnouor1/aqi-predictor"
+    ],
+    [
+      "Football-Detection-YOLOv11",
+      "https://github.com/mahnouor1/Football-Detection-Model-YOLOv11"
+    ]
+  ],
+  "reels_source": "instagram.com/mahnoor.ships, read 26 Nov 2026",
+  "reels": [
+    {
+      "id": "DgKsKF2o4rE",
+      "title": "This chapter ends here: goodbye, PurpleStore",
+      "date": "25 Nov 2026",
+      "views": "3.4K+"
+    },
+    {
+      "id": "Dfj0SpQouI_",
+      "title": "Leads are waiting before my coffee: Hermes + cron",
+      "date": "10 Nov 2026",
+      "views": "3.0K+"
+    },
+    {
+      "id": "De_6GI5i0Vu",
+      "title": "I plugged an AI agent into my lead engine",
+      "date": "27 Oct 2026",
+      "views": "3.1K+"
+    },
+    {
+      "id": "DeHDO18CDHa",
+      "title": "My own outreach CRM, with JEV built in",
+      "date": "5 Oct 2026",
+      "views": "2.1K+"
+    }
+  ]
+}
