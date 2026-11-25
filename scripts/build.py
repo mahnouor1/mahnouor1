@@ -158,7 +158,7 @@ def label(t, title, tag, fill):
 # ---------- app card ----------
 def app(t, a):
     T = THEMES[t]
-    W, H = 440, 304
+    W, H = 440, (304 if a.get("chips") else 254)
     s = Svg(W, H, f"{a['name']}: {a['line']} {a['status']}. {a['fact']}", T)
     s.board()
     x, y, w, h = 16, 16, W - 36, H - 36
@@ -179,9 +179,9 @@ def app(t, a):
         s.text(x + 20, ly, ln, "body", 17.5, T["text"])
         ly += 25
     cx = x + 20
-    for text, fill in a["chips"]:
+    for text, fill in a.get("chips", []):
         cx += chip(s, cx, y + 190, text, fill, size=12.5, shadow=0) + 8
-    s.text(x + 20, y + 245, a["fact"], "mono", 13.5, T["muted"])
+    s.text(x + 20, y + (245 if a.get("chips") else 194), a["fact"], "mono", 13.5, T["muted"])
     return s
 
 

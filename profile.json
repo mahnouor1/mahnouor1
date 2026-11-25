@@ -113,20 +113,6 @@
       "status": "building",
       "tint": "pu",
       "line": "AI voice agent that answers calls, handles customer queries and books appointments.",
-      "chips": [
-        [
-          "Pipecat",
-          "pu"
-        ],
-        [
-          "Deepgram",
-          "bl"
-        ],
-        [
-          "Gemini",
-          "am"
-        ]
-      ],
       "fact": "Skimmy AI · clinics, salons, trades",
       "url": "https://skimmy.ai"
     },
@@ -137,20 +123,6 @@
       "status": "live",
       "tint": "bl",
       "line": "Lead gen, outbound email, sequences and follow-ups. Built solo in one month.",
-      "chips": [
-        [
-          "n8n",
-          "pk"
-        ],
-        [
-          "Gemini",
-          "am"
-        ],
-        [
-          "custom CRM",
-          "bl"
-        ]
-      ],
       "fact": "503 leads · 134 qualified · 20/day cap",
       "url": "https://mahnoor.cloudordinate.com/"
     },
@@ -161,20 +133,6 @@
       "status": "live",
       "tint": "gr",
       "line": "Ask \"find healthcare leads in Sydney\". It scrapes Maps, crawls sites, verifies emails.",
-      "chips": [
-        [
-          "Hermes Agent",
-          "gr"
-        ],
-        [
-          "MCP",
-          "pu"
-        ],
-        [
-          "VPS",
-          "tl"
-        ]
-      ],
       "fact": "271 leads found in the last 14 days",
       "url": "https://hermesagent.cloudordinate.com"
     },
@@ -185,20 +143,6 @@
       "status": "live",
       "tint": "am",
       "line": "Scores every lead by ICP, verdict and fit score, with the tokens and cost of each run.",
-      "chips": [
-        [
-          "Gemini",
-          "am"
-        ],
-        [
-          "job queue",
-          "tl"
-        ],
-        [
-          "cost tracking",
-          "gr"
-        ]
-      ],
       "fact": "10 leads in 7.9 s · 8,033 tokens",
       "url": "https://mahnoor.cloudordinate.com/"
     }
