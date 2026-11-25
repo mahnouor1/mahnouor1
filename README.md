@@ -1,8 +1,6 @@
 <a href="https://mahnoor.cloudordinate.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I'm Mahnoor. I build AI systems that scale: voice agents, lead engines and the CRMs behind them."></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="Contributions in the last 6 months"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 127 last year, 108 in Nov, 33 repos, 10 stars. 122 contributions in the last 6 months."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-ship-dark.svg"><img src="assets/label-ship-light.svg" width="100%" alt="What I ship"></picture>
 
@@ -13,7 +11,7 @@
 <a href="https://mahnoor.cloudordinate.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-jev-dark.svg"><img src="assets/app-jev-light.svg" width="49%" alt="JEV: Scores every lead by ICP, verdict and fit score, with the tokens and cost of each run."></picture></a>
 </p>
 
-<p align="center"><sub>Company and client repos are private. Demos on request · more ships: <a href="https://cloudordinate.com">WhatsApp AI Sales Agent</a> · <a href="https://github.com/mahnouor1/CALL-AUTOMATION">CALL-AUTOMATION</a> · <a href="https://github.com/mahnouor1/aqi-predictor">aqi-predictor</a> · <a href="https://github.com/mahnouor1/Football-Detection-Model-YOLOv11">Football-Detection-YOLOv11</a></sub></p>
+<p align="center"><sub>Company and client repos are private · more: <a href="https://cloudordinate.com">WhatsApp AI Sales Agent</a> · <a href="https://github.com/mahnouor1/CALL-AUTOMATION">CALL-AUTOMATION</a> · <a href="https://github.com/mahnouor1/aqi-predictor">aqi-predictor</a></sub></p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-reels-dark.svg"><img src="assets/label-reels-light.svg" width="100%" alt="Latest reels"></picture>
 
@@ -24,4 +22,4 @@
 <a href="https://www.instagram.com/mahnoor.ships/reel/DeHDO18CDHa/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/reel-DeHDO18CDHa-dark.svg"><img src="assets/reel-DeHDO18CDHa-light.svg" width="24%" alt="My own outreach CRM, with JEV built in"></picture></a>
 </p>
 
-<p align="center"><sub>Karachi, Pakistan · building <a href="https://skimmy.ai">Skimmy AI</a> · <a href="https://mahnoor.cloudordinate.com/">mahnoor.cloudordinate.com</a> · design inspired by <a href="https://github.com/ZazaGdev">ZazaGdev</a></sub></p>
+<p align="center"><sub><a href="https://mahnoor.cloudordinate.com/">Portfolio</a> · <a href="https://www.linkedin.com/in/mahnoor-umar-a61027226/">LinkedIn</a> · <a href="mailto:mahnouor@gmail.com">Email</a> · <a href="https://cal.com/mahnoor-umar-plzhcx">Book a call</a> · design inspired by <a href="https://github.com/ZazaGdev">ZazaGdev</a></sub></p>

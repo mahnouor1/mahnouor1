@@ -133,3 +133,71 @@ def heatmap(t, data, T, months=6):
         svg.add(f'<rect x="{lx + k*20:.1f}" y="{by-13}" width="15" height="15" rx="4" fill="{HEAT[t][k]}"/>')
     svg.text(lx + 5 * 20 + 2, by, "More", "mono", 14, T["muted"])
     return svg
+
+
+def github_card(t, data, T, icon):
+    """One compact card: 4 stat pills on top, 6-month heatmap below."""
+    today = date.fromisoformat(data["today"])
+    st = stats(data)
+    pills = [(fmt(data["last_year"]), "last year", "bl", "cal"),
+             (fmt(st["month"]), f"in {today.strftime('%b')}", "gr", "bolt"),
+             (fmt(data["public_repos"]), "repos", "tl", "site"),
+             (fmt(data["stars"]), "stars", "pk", "star")]
+    start = today - timedelta(days=183)
+    start -= timedelta(days=(start.weekday() + 1) % 7)
+    weeks, d = [], start
+    while d <= today:
+        weeks.append([d + timedelta(days=i) for i in range(7)])
+        d += timedelta(days=7)
+    vals = data["days"]
+    shown = [vals.get(x.isoformat(), 0) for w in weeks for x in w if x <= today]
+    nz = sorted(v for v in shown if v)
+
+    def level(v):
+        if not v:
+            return 0
+        q = [nz[int(len(nz) * f)] for f in (0.25, 0.5, 0.75)]
+        return 1 + sum(v > x for x in q)
+
+    W, ch, gap = 880, 18, 3.5
+    n = len(weeks)
+    gridw = W - 80
+    cell = (gridw - (n - 1) * gap) / n
+    H = int(100 + 7 * (ch + gap) + 52)
+    label = f"On GitHub: {', '.join(f'{v} {l}' for v, l, _, _ in pills)}. {fmt(sum(shown))} contributions in the last 6 months."
+    svg = Svg(W, H, label, T)
+    svg.board()
+    svg.sticker(18, 16, W - 40, H - 36, T["card"], rx=14, shadow=4)
+    svg.text(40, 58, "On GitHub", "display", 21, T["text"])
+    ic = T["pop"] if T["bg"].startswith("#f") else T["warn"]
+    x = W - 40
+    for v, l, tint, ico in reversed(pills):
+        pw = 34 + measure(v, "display", 17) + 7 + measure(l, "mono", 12.5) + 14
+        x -= pw
+        svg.sticker(x, 34, pw, 32, T[tint], rx=9, shadow=2, stroke=1.8)
+        icon(svg, ico, x + 9, 41, 0.75, ic, 2.6)
+        svg.text(x + 34, 56, v, "display", 17, T["text"])
+        svg.text(x + 34 + measure(v, "display", 17) + 7, 55, l, "mono", 12.5, T["text"])
+        x -= 10
+    gx, gy = 40, 100
+    for i, w in enumerate(weeks):
+        cx = gx + i * (cell + gap)
+        if (i > 0 and w[0].day <= 7) or (i == 0 and w[0].day <= 14):
+            svg.text(cx, gy - 9, w[-1].strftime("%b"), "mono", 12, T["muted"])
+        for j, day in enumerate(w):
+            if day > today:
+                continue
+            v = vals.get(day.isoformat(), 0)
+            lv = level(v)
+            y = gy + j * (ch + gap)
+            svg.add(f'<rect x="{cx:.1f}" y="{y:.1f}" width="{cell:.1f}" height="{ch}" rx="4" fill="{HEAT[t][lv]}"/>')
+            if v:
+                svg.text(cx + cell / 2, y + ch / 2 + 3.8, str(v), "monob", 10.5, HEAT_TEXT[t][lv], "middle")
+    by = gy + 7 * (ch + gap) + 18
+    svg.text(gx, by, f"{fmt(sum(shown))} contributions in the last 6 months", "mono", 12, T["muted"])
+    lx = gx + gridw - 4 * 16 - 15 - measure("More", "mono", 12) - 6
+    svg.text(lx - 6, by, "Less", "mono", 12, T["muted"], "end")
+    for k in range(5):
+        svg.add(f'<rect x="{lx + k*16:.1f}" y="{by-11}" width="12" height="12" rx="3" fill="{HEAT[t][k]}"/>')
+    svg.text(lx + 5 * 16 + 2, by, "More", "mono", 12, T["muted"])
+    return svg
