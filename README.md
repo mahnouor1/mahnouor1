@@ -1,6 +1,6 @@
 <a href="https://mahnoor.cloudordinate.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I'm Mahnoor. I build AI systems that scale: voice agents, lead engines and the CRMs behind them."></picture></a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 127 last year, 108 in Nov, 33 repos, 10 stars. 122 contributions in the last 6 months."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 130 last year, 111 in Nov, 33 repos, 10 stars. 125 contributions in the last 6 months."></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-ship-dark.svg"><img src="assets/label-ship-light.svg" width="100%" alt="What I ship"></picture>
 
